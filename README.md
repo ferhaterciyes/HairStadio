@@ -8,4 +8,4 @@ HTML% ve CSS3 ile ileri aniasyon teknolojileri
 
 <h2>Ekran Gifi</h2>
 
-![](hairstadio)
+![](hair.stadio)
